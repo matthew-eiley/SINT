@@ -1,4 +1,4 @@
-# SINT — Simple and Intuitive Notation for Technical Writing
+# SINT:<br/>Simple and Intuitive Notation for Technical Writing
 
 SINT is a custom markup language and interpreter that compiles user-friendly syntax into clean LaTeX. 
 It was born from frustration with LaTeX’s clunky syntax—especially when writing long-form technical documents.
